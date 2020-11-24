@@ -67,7 +67,7 @@ Insert_newbie()
 }
 ```
 
-### 3. CD 
+### 3. CD 등록
 ```sh
 #<CD 등록>
 
